@@ -1,0 +1,14 @@
+NAME: Aaron Grycner
+
+Size of Data: 50000 integers
+
+Name of sort function: 		Elapsed time in secs.msec
+Bubble Sort:		 	    	2.8149858
+Comb Sort:			 	0.0044136
+Goofy Sort: 			 	1.3237180
+In-Place Merge Sort:			0.3481054
+Insertion Sort: 		   	0.3464472
+Quick Sort: 			  	0.0026720
+Selection Sort: 			0.6986779
+Shaker Sort: 			 	1.5977153
+Shell Sort: 	    			0.0042815
